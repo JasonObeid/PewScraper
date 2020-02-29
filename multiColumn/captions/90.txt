@@ -1,0 +1,191 @@
+Men have accounted for a majority of newly enrolled foreign students at U.S. colleges and universities since 2004.
+
+
+
+Year
+Men
+Women
+
+
+
+
+2004
+76,000
+62,000
+
+
+2005
+79,000
+66,000
+
+
+2006
+84,000
+69,000
+
+
+2007
+92,000
+74,000
+
+
+2008
+99,000
+80,000
+
+
+2009
+99,000
+81,000
+
+
+2010
+104,000
+84,000
+
+
+2011
+115,000
+91,000
+
+
+2012
+128,000
+101,000
+
+
+2013
+--
+--
+
+
+2014
+173,000
+130,000
+
+
+2015
+204,000
+149,000
+
+
+2016
+208,000
+156,000
+
+
+
+Pew Research Centerchart[38685] = [{"colors":["#949D48","#c2c98b","#d6dab3","#eaecd8","#494e24"],"plotOptions":{"line":{"marker":{"fillColor":"#FFFFFF","lineWidth":2,"lineColor":null,"enabled":false}},"area":{"lineWidth":0,"marker":{"enabled":false}},"scatter":{"marker":{"fillColor":null}},"bar":{"stacking":null},"column":{"stacking":null},"pie":{"visible":true,"dataLabels":{"enabled":true}}},"chart":{"type":"line","zoomType":"none"},"subtitle":{"text":"Number of foreign students newly enrolled in associate, bachelor's, master's or doctorate degree programs"},"xAxis":{"title":[],"type":"datetime","plotBands":[{"color":"#F5F4EF","from":1199145600000,"to":1248912000000,"label":{"text":"Recession","verticalAlign":"top","textAlign":"center","style":{"color":"#6d6e71"}}}]},"yAxis":{"title":[]},"misc":{"inlineTooltips":false},"html":{"waypoints":false,"data_tab":"Data","chart_tab":"Chart","share_tab":"Share","height":"400px","iframe":true,"iframe_tab":"Embed","iframe_text":"Copy and paste the below iframe code into your own website to embed this chart.","title":"Gender of foreign students in the U.S., 2004-2016","subtitle":"Number of foreign students newly enrolled in associate, bachelor's, master's or doctorate degree programs","URL":"https:\/\/www.pewresearch.org\/global\/chart\/foreign-students-u-s-higher-education-gender\/","id":38685,"slug":"foreign-students-u-s-higher-education-gender","domain":"https:\/\/www.pewresearch.org\/global","credits":"Note: Foreign students are full-time students on F-1 visas approved to study in the United States. Students approved for F-1 visas are assumed to be enrolled for studies at their sponsoring school. Data are based on the calendar year and are not available for 2013. The Great Recession began in December 2007 and ended in June 2009, as defined by the National Bureau of Economic Research.<br\/>Source: Pew Research Center analysis of U.S Immigration and Customs Enforcement data from 2004-2012 and 2014-2016 received through a Freedom of Information Act request.","creditsURL":false,"creditText":" "}}];
+
+Top 10 countries of origin of foreign students in the U.S., 2016
+Students from China, India and South Korea accounted for more than half (54%) of all newly enrolled foreign students pursuing degrees at U.S. colleges and universities in 2016.
+
+
+
+Country of origin
+Number of students
+
+
+
+
+China
+108,000
+
+
+India
+66,000
+
+
+South Korea
+21,000
+
+
+Saudi Arabia
+18,000
+
+
+Canada
+10,000
+
+
+Vietnam
+9,000
+
+
+Taiwan
+7,000
+
+
+Nepal
+6,000
+
+
+Japan
+6,000
+
+
+Nigeria
+6,000
+
+
+
+Pew Research Centerchart[39450] = [{"colors":["#949D48","#c2c98b","#d6dab3","#eaecd8","#494e24"],"plotOptions":{"line":{"marker":{"fillColor":"#FFFFFF","lineWidth":2,"lineColor":null,"enabled":true}},"area":{"lineWidth":0,"marker":{"enabled":true}},"scatter":{"marker":{"fillColor":null}},"bar":{"stacking":null},"column":{"stacking":null},"pie":{"visible":true,"dataLabels":{"enabled":true}}},"chart":{"type":"bar","zoomType":"none"},"subtitle":{"text":"Number of foreign students newly enrolled in associate, bachelor's, master's or doctorate degree programs"},"xAxis":{"title":[],"type":"linear"},"yAxis":{"title":[]},"misc":{"inlineTooltips":false},"html":{"waypoints":false,"data_tab":"Data","chart_tab":"Chart","share_tab":"Share","height":"400px","iframe":true,"iframe_tab":"Embed","iframe_text":"Copy and paste the below iframe code into your own website to embed this chart.","title":"Top 10 countries of origin of foreign students in the U.S., 2016","subtitle":"Number of foreign students newly enrolled in associate, bachelor's, master's or doctorate degree programs","URL":"https:\/\/www.pewresearch.org\/global\/chart\/foreign-students-u-s-higher-education-top-10-countries-of-origin\/","id":39450,"slug":"foreign-students-u-s-higher-education-top-10-countries-of-origin","domain":"https:\/\/www.pewresearch.org\/global","credits":"Note: Foreign students are full-time students on F-1 visas approved to study in the United States. Students approved for F-1 visas are assumed to be enrolled for studies at their sponsoring school. Data are based on the calendar year.<br\/>Source: Pew Research Center analysis of U.S Immigration and Customs Enforcement data from 2004-2012 and 2014-2016 received through a Freedom of Information Act request.","creditsURL":false,"creditText":" "}}];
+Top 10 states for foreign students in the U.S., 2016
+Ten states accounted for nearly two-thirds (63%) of newly enrolled foreign students at U.S. colleges and universities in 2016.
+
+
+
+State
+Number of students
+
+
+
+
+California
+60,000
+
+
+New York
+41,000
+
+
+Texas
+27,000
+
+
+Massachusetts
+20,000
+
+
+Pennsylvania
+18,000
+
+
+Illinois
+17,000
+
+
+Florida
+16,000
+
+
+Ohio
+11,000
+
+
+Michigan
+10,000
+
+
+Washington
+10,000
+
+
+
+ 
+Pew Research Centerchart[39483] = [{"colors":["#949D48","#c2c98b","#d6dab3","#eaecd8","#494e24"],"plotOptions":{"line":{"marker":{"fillColor":"#FFFFFF","lineWidth":2,"lineColor":null,"enabled":true}},"area":{"lineWidth":0,"marker":{"enabled":true}},"scatter":{"marker":{"fillColor":null}},"bar":{"stacking":null},"column":{"stacking":null},"pie":{"visible":true,"dataLabels":{"enabled":true}}},"chart":{"type":"column","zoomType":"none","inverted":true},"subtitle":{"text":"Number of foreign students newly enrolled in associate, bachelor's, master's or doctorate degree programs"},"xAxis":{"title":[],"type":"linear"},"yAxis":{"title":[]},"misc":{"inlineTooltips":false},"html":{"waypoints":false,"data_tab":"Data","chart_tab":"Chart","share_tab":"Share","height":"400px","iframe":true,"iframe_tab":"Embed","iframe_text":"Copy and paste the below iframe code into your own website to embed this chart.","title":"Top 10 states for foreign students in the U.S., 2016","subtitle":"Number of foreign students newly enrolled in associate, bachelor's, master's or doctorate degree programs","URL":"https:\/\/www.pewresearch.org\/global\/chart\/foreign-students-u-s-higher-education-top-10-states\/","id":39483,"slug":"foreign-students-u-s-higher-education-top-10-states","domain":"https:\/\/www.pewresearch.org\/global","credits":"Note: Foreign students are full-time students on F-1 visas approved to study in the United States. Students approved for F-1 visas are assumed to be enrolled for studies at their sponsoring school. Data are based on the calendar year.<br\/>Source: Pew Research Center analysis of U.S Immigration and Customs Enforcement data from 2004-2012 and 2014-2016 received through a Freedom of Information Act request.","creditsURL":false,"creditText":" "}}];
+About this analysis
+This fact sheet was compiled by Abby Budiman, intern, Jynnah Radford, research assistant, Antonio Flores, research assistant, and Neil G. Ruiz, associate director of global migration and demography research.
+
+The data in this analysis include only students with F-1 visas newly enrolled at U.S. colleges and universities who appeared in the federal government’s automated foreign student monitoring system, the Student and Exchange Visitor Information System. These students must be enrolled full-time at U.S. colleges and universities certified by the federal government. Public and private schools are defined by the Carnegie Classification of Institutions of Higher Education. This analysis excludes schools not categorized in the Carnegie classification system.
+For this analysis we assume students approved for F-1 visas enroll for studies at their sponsoring school.

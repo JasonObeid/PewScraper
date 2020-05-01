@@ -1,0 +1,16 @@
+import pandas as pd
+
+wordCountList = []
+captionCount = 0
+
+df = pd.read_csv('2Columns/metadata.csv')
+captions = df.pop('caption')
+
+for caption in captions:
+    captionWords = caption.split()
+    wordCount = len(captionWords)
+    wordCountList.append(wordCount)
+    captionCount += 1
+
+averageWords = sum(wordCountList)/captionCount
+print(averageWords)
